@@ -256,6 +256,10 @@ hr{
 	color:#fff !important;
 }
 
+.gray-color{
+	color:#ccc !important;
+}
+
 .bg-color-pink{
     color:#fff;
     background:#F28C83;
@@ -312,6 +316,15 @@ hr{
     background-size: cover;
 }
 
+.grunge-bg{
+    background-image: url(../images/grunge-texture.png);
+    background-size: cover;
+}
+
+.asfalt-bg{
+    background-image: url(../images/asfalt-texture.png);
+}
+
 .light-typo *{
 	color: #fff;
 }
@@ -330,7 +343,7 @@ hr{
 
 
 .border-top-main-color{
-    border-top:7px solid #d18c32;
+    border-top:7px solid #07141f;
 }
 
 .border-top-pink{
@@ -767,7 +780,7 @@ hr{
 .cta{
 	padding:120px 0;
 	color:#fff;
-	background-image: url(../images/polygon.png);
+	//background-image: url(../images/polygon.png);
 }
 
 .cta p{
