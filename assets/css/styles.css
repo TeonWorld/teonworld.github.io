@@ -1874,6 +1874,30 @@ hr{
 	transition-delay:1.2s;
 }
 
+.scrollimation.d5{
+	transition-delay:1.5s;
+}
+
+.scrollimation.d6{
+	transition-delay:1.8s;
+}
+
+.scrollimation.d7{
+	transition-delay:2.1s;
+}
+
+.scrollimation.d8{
+	transition-delay:2.4s;
+}
+
+.scrollimation.d9{
+	transition-delay:2.7s;
+}
+
+.scrollimation.d9{
+	transition-delay:3.0s;
+}
+
 .touch .scrollimation.fade-in{
 	opacity:1;
 }
