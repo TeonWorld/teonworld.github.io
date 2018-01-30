@@ -313,6 +313,11 @@ hr{
 	color:#fff;
 }
 
+.yellow-bg a:hover,
+.yellow-bg a:focus {
+	text-decoration: underline;
+}
+
 .polygon-bg{
 	background-image: url(../images/polygon.png);
 }
