@@ -321,6 +321,11 @@ hr{
     background-size: cover;
 }
 
+.grunge2-bg{
+    background-image: url(../images/grunge2-texture.png);
+    background-size: cover;
+}
+
 .asfalt-bg{
     background-image: url(../images/asfalt-texture.png);
 }
@@ -343,7 +348,7 @@ hr{
 
 
 .border-top-main-color{
-    border-top:7px solid #07141f;
+    border-top:7px solid #d18c32;
 }
 
 .border-top-pink{
@@ -1471,7 +1476,6 @@ hr{
 
 #download{
 	position: relative;
-	background: url(../images/map.jpg) center center no-repeat;
 }
 
 .color-overlay:before{
@@ -1493,7 +1497,7 @@ hr{
 }
 
 #download .row{
-	margin-top: 100px;
+	/*margin-top: 100px;*/
 }
 
 #download p{
