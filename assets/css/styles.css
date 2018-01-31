@@ -401,6 +401,10 @@ hr{
 	transition:all .2s ease-out .0s;
 }
 
+.btn-forum:after{
+	content:"\f209" !important;
+}
+
 .btn-dc:hover{
 	padding-right:70px;
 }
@@ -1922,8 +1926,20 @@ hr{
 	transition-delay:2.7s;
 }
 
-.scrollimation.d9{
+.scrollimation.d10{
 	transition-delay:3.0s;
+}
+
+.scrollimation.d11{
+	transition-delay:3.3s;
+}
+
+.scrollimation.d12{
+	transition-delay:3.6s;
+}
+
+.scrollimation.d13{
+	transition-delay:3.9s;
 }
 
 .touch .scrollimation.fade-in{
